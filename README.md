@@ -1,3 +1,3 @@
 # odin-page
 
-Landing page creating with HTML and CSS
+A delivery service landing page creating with HTML and CSS
